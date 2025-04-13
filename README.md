@@ -1,1 +1,1 @@
-# Turning-Machine-Project
+# Turing-Machine-Project
